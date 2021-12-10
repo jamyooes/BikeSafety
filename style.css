@@ -8,3 +8,8 @@ img {
   width: 50%;
   height: 50%;
 }
+
+#nav {
+  font-size: 35px;
+  color: darkblue;
+}
