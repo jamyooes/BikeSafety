@@ -1,7 +1,10 @@
 #James Yoo
+#Idea of the project is to display biker accidents on a web map followed with charts
+#that display accidents by years
 #Data sources below
 #https://data.cityofnewyork.us/Transportation/Bicycle-Routes/7vsa-caz7
 #https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+#URL = https://jamyooes.github.io/BikeSafety/index.html
 
 import pandas as pd
 import folium
